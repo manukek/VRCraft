@@ -16,7 +16,7 @@ VRCraft is a special VR Modpack designed for optimization and compatibility with
 **Future Updates:**
 VRCraft will be continuously updated to support new Minecraft versions or older ones, ensuring compatibility and adding new features for players to enjoy.
 
-**How to Start Playing:**
+## **How to Start Playing:**
 To start playing VRCraft, simply use the cable from your VR headset for a traditional setup, or opt for wireless gaming using the Steam Link and SteamVR. Pico and Oculus Quest 2 users can also dive into the VR experience seamlessly.
 
 Enjoy the immersive world of Minecraft in virtual reality with VRCraft!
