@@ -1,0 +1,1 @@
+{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.14.22"}},"minecraft":{"+recommends":{"VRCraft":">1.0.1"}},"debugify":{"recommends":{}},"lambdynlights":{"recommends":{}}}}
