@@ -21,6 +21,8 @@ To start playing VRCraft, simply use the cable from your VR headset for a tradit
 
 Enjoy the immersive world of Minecraft in virtual reality with VRCraft!
 
+How to Play? See a docs! https://manukmc-projects.gitbook.io/vrcraft-wiki/
+
 | Launcher                 | Install   | Upgrade  | Add mods |
 |-------------------------|----------|-----------|----------|
 | CurseForge App          | ✅ Easy   | ✅ Easy  | ✅ Easy  |
